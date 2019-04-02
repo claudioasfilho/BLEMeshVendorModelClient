@@ -1,0 +1,9 @@
+// Copyright 2019 Silicon Laboratories, Inc.
+//
+//
+
+Executing: bgbuild (/Users/clfilho/projects/Simplicity Studio.app/Contents/Eclipse/developer/sdks/blemesh/v1.4/protocol/bluetooth/bin/bgbuild)
+Standard output
+ALL OK
+
+
